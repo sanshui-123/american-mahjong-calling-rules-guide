@@ -4,7 +4,7 @@ A concise, zero-clutter table reference for the most frequently debated rules in
 
 - **Interactive Calling Rules Decision Chart**: [mahjongfirst.com/calling-rules.html](https://mahjongfirst.com/calling-rules.html)
 - **Charleston Pass Step-by-Step Guide**: [mahjongfirst.com/charleston-rules.html](https://mahjongfirst.com/charleston-rules.html)
-- **Free 4–32 Player Multi-Table Rotation Generator**: [mahjongfirst.com/rotation-generator.html](https://mahjongfirst.com/rotation-generator.html)
+- **Free 4–32 Player Multi-Table Rotation Generator**: [mahjongfirst.com/mahjong-table-rotation-and-host-guide.html](https://mahjongfirst.com/mahjong-table-rotation-and-host-guide.html)
 
 ---
 
@@ -33,4 +33,4 @@ A concise, zero-clutter table reference for the most frequently debated rules in
 
 - [Calling Rules Interactive Lookup](https://mahjongfirst.com/calling-rules.html)
 - [How to Read an American Mahjong Card Step by Step](https://mahjongfirst.com/how-to-read-american-mahjong-card.html)
-- [4–32 Player Tournament / Club Rotation Generator](https://mahjongfirst.com/rotation-generator.html)
+- [4–32 Player Tournament / Club Rotation Generator](https://mahjongfirst.com/mahjong-table-rotation-and-host-guide.html)
